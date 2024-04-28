@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="images/main1.png" alt="Alt text" style="width:300px;height:200px;">
+<img src="images/main1.png" alt="Alt text" style="width:300px;height:500px;">
 
 ![Alt text](images/main2.png)
 ![Alt text](images/land1.png)
