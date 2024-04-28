@@ -2,5 +2,8 @@
 
 A new Flutter project.
 
-![Alt text](images/main1.png "calculate BMI")
-![Alt text](imagesScreenshot_20240421_220903.jpg "calculate BMI")
+![Alt text](images/main1.png_)
+![Alt text](images/main2.png )
+![Alt text](images/land1.png )
+![Alt text](images/land2.png )
+
